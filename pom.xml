@@ -20,7 +20,7 @@
         <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <main-class>com.wh.whweb.WhWebApplication</main-class>
+        <main-class>com.pkok.firstweb.FirstWebApplication</main-class>
     </properties>
 
     <dependencies>
